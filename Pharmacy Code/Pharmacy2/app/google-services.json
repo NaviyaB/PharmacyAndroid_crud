@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "172548043611",
+    "firebase_url": "https://pharmacy2-4926f.firebaseio.com",
+    "project_id": "pharmacy2-4926f",
+    "storage_bucket": "pharmacy2-4926f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172548043611:android:58cf84f6f75e5ae54b207e",
+        "android_client_info": {
+          "package_name": "com.example.naveenbimsara.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172548043611-peo180on6l9b2svl8pekmk419vqa7ng4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenbimsara.pharmacy",
+            "certificate_hash": "87fcc1a710699d48247dd37c214700cbde621cec"
+          }
+        },
+        {
+          "client_id": "172548043611-s4844qjg109oelukpiipc7vq8u1311kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenbimsara.pharmacy",
+            "certificate_hash": "c691f666731bfee6a44e8a7387bb794a89588321"
+          }
+        },
+        {
+          "client_id": "172548043611-i4rt87ttegi4g4udgg4g9eu666h21loo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HJxTdiZBR8xZi-oxsU0L32nh69rDGs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172548043611-i4rt87ttegi4g4udgg4g9eu666h21loo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
